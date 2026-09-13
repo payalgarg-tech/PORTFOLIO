@@ -63,7 +63,7 @@ http://localhost:8000
 ## Contact
 
 - Email: payalgarg2605@gmail.com
-- Phone: +91-9310145070
+
 - Location: Faridabad, Haryana
 
 ## Author
